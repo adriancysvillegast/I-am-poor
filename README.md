@@ -1,3 +1,3 @@
 # I-am-poor
 This was my first App. here just show in a label I'm poor 
-[Read more words!](SceenShots/Screen Shot - iPhone 13 Pro Max I am Poor.png)
+![ScreenShot](/ScreenShots/Screen Shot - iPhone 13 Pro Max I am Poor.png)
